@@ -1,0 +1,19 @@
+{
+  "name": "4-erc20",
+  "version": "1.0.0",
+  "description": "My First NeatBit",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "toptal126",
+  "license": "ISC"
+}
