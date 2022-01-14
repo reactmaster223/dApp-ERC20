@@ -9317,12 +9317,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xFB39B632b7391a00Eb081607b3390270368AD1ab",
-      "transactionHash": "0xa7151253ed022326118b0d9d0b0b641d30f37db8ca1bfa5419225aef5fdd0aa7"
+      "address": "0xDD1bc03cf4F623Ff1dc749af36A63Af99D8a1AA0",
+      "transactionHash": "0xcb6744e8a49f3d977bb5f2d9ee79c58ce243511d7b83c9e3ba62dfcfad9a72b1"
     }
   },
   "schemaVersion": "3.4.4",
-  "updatedAt": "2022-01-04T17:08:20.315Z",
+  "updatedAt": "2022-01-13T18:40:48.063Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
